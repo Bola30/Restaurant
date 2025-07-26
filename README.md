@@ -1,16 +1,40 @@
 # reco_restaurant_app
 
-A new Flutter project.
+# 🍽️ Flutter Restaurant App
 
-## Getting Started
+This is a simple restaurant mobile application built using **Flutter** as part of an internship assessment at Reco Genie.
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Home Page**: List of food items with images, prices, and names.
+- **Search**: Filter meals by name.
+- **Add to Cart**: Add any item with quantity control.
+- **Cart Page**:
+  - View added items
+  - Increase/decrease quantity
+  - Delete items
+  - Clear cart
+  - Total price calculation
+- **Checkout**: Shows confirmation dialog and clears cart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter (Stateful Widgets)
+- Local cart state (No Firebase)
+- Material UI components
+
+## 🎥 Demo Video
+
+[Watch Demo](https://drive.google.com/file/d/1BJX0Dn4PfZmGAvu4EKbbKqidvmVLiDwS/view?usp=drive_link)
+
+## 📂 Project Structure
+
+- `main.dart` – App entry point
+- `home_page.dart` – Displays food items
+- `cart_page.dart` – Manages the shopping cart
+
+---
+
+Feel free to explore the app and its features. This project is part of my internship application and showcases my skills in UI design, logic, and Flutter development.
+
+**Made with ❤️ by Bola Nady**
