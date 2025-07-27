@@ -1,5 +1,3 @@
-# reco_restaurant_app
-
 # 🍽️ Flutter Restaurant App
 
 This is a simple restaurant mobile application built using **Flutter** and **Firebase Authentication**, developed as part of an internship assessment at Reco Genie.
